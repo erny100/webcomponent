@@ -1,0 +1,2 @@
+import{w as a,o as n,s,a as r,c}from"./Bootstrap.76960f42.js";import{_ as d}from"./_plugin-vue_export-helper-c27b6911.js";const p=`.user[data-v-1d58d23a]{position:absolute;width:0px;height:0px;z-index:-100}
+`,i={class:"user"},_={__name:"User.ce",props:{idrivenditore:{type:String,default:"LI8009"},contogioco:{type:String,default:null},token:{type:String,default:null}},setup(o){const t=o;return a(t,e=>{s(e)}),n(()=>{s(t)}),(e,l)=>(r(),c("div",i))}},m=d(_,[["styles",[p]],["__scopeId","data-v-1d58d23a"]]);export{m as default};
